@@ -1,7 +1,8 @@
 ### <h1>Hi there I'm Malena 👋💻</h1>
 
 
-2nd-year student in Web Development, driven and ambitious, seeking to strengthen my professional development. Passionate about creating digital experiences and eager to contribute to the tech world with my enthusiasm and skills.
+2nd-year student in Web Development, driven and ambitious, seeking to strengthen my professional development. 
+Passionate about creating digital experiences and eager to contribute to the tech world with my enthusiasm and skills.
 
 <details>
   <summary>🚧 Currently working on my website...</summary>
